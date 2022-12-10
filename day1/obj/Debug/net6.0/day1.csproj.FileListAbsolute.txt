@@ -1,0 +1,5 @@
+/home/curdin/Documents/advent_of_code/day1/obj/Debug/net6.0/day1.csproj.AssemblyReference.cache
+/home/curdin/Documents/advent_of_code/day1/obj/Debug/net6.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/curdin/Documents/advent_of_code/day1/obj/Debug/net6.0/day1.AssemblyInfoInputs.cache
+/home/curdin/Documents/advent_of_code/day1/obj/Debug/net6.0/day1.AssemblyInfo.cs
+/home/curdin/Documents/advent_of_code/day1/obj/Debug/net6.0/day1.csproj.CoreCompileInputs.cache
