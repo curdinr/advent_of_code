@@ -10,5 +10,3 @@ dotnet new mvc -au None -o Testapp
 ## open project in shell
 code .
 
-##access token github
-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
