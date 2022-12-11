@@ -7,6 +7,6 @@ dotnet run
 ## create webapp projekt
 dotnet new mvc -au None -o Testapp
 
-## open project in shell
+## open project through shell
 code .
 
