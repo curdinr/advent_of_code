@@ -1,6 +1,3 @@
-##advent of code resolutions
-https://github.com/DjordjeNedovic/Advent-of-Code/tree/main/Advent-of-Code-2022
-
 ## make csharp project for vs code
 dotnet new console -o day1
 
