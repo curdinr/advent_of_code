@@ -13,7 +13,7 @@ namespace day4
             Console.WriteLine($"2: {PartTwo(input)}");
         }
 
-private static object PartOne(string[] input)
+        private static object PartOne(string[] input)
         {
             int index = 0;
             string regex = @"(?<g1>\d+)-(?<g2>\d+),(?<g3>\d+)-(?<g4>\d+)";
