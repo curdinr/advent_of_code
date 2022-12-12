@@ -1,0 +1,15 @@
+/home/curdin/Documents/advent_of_code/day4/bin/Debug/net7.0/day4
+/home/curdin/Documents/advent_of_code/day4/bin/Debug/net7.0/day4.deps.json
+/home/curdin/Documents/advent_of_code/day4/bin/Debug/net7.0/day4.runtimeconfig.json
+/home/curdin/Documents/advent_of_code/day4/bin/Debug/net7.0/day4.dll
+/home/curdin/Documents/advent_of_code/day4/bin/Debug/net7.0/day4.pdb
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.csproj.AssemblyReference.cache
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.GeneratedMSBuildEditorConfig.editorconfig
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.AssemblyInfoInputs.cache
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.AssemblyInfo.cs
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.csproj.CoreCompileInputs.cache
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.dll
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/refint/day4.dll
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.pdb
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/day4.genruntimeconfig.cache
+/home/curdin/Documents/advent_of_code/day4/obj/Debug/net7.0/ref/day4.dll
